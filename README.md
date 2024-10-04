@@ -1,2 +1,2 @@
 # gittovs
-we learn transfer and modified git to vs
+we learn transfer and modified git to vs.
